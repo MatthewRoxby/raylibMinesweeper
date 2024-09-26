@@ -1,0 +1,6 @@
+obj/
+*.dll
+bin/Debug/net8.0/runtimes
+bin/Debug/net8.0/*.json
+bin/Debug/net8.0/*.pdb
+bin/Debug/net8.0/*.exe
